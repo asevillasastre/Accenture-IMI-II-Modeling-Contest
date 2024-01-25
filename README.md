@@ -8,7 +8,7 @@ A heuristic algorithm is proposed. It tries to find sets of operations on primes
 - Our proposed solution is in [this script](https://github.com/asevillasastre/Accenture-IMI-II-Modeling-Contest/blob/main/SCRIPT.py)
 
 ### Author
-Antonio Sevilla Sastre, Enrique Pérez López, Miguel Martínez González (M. Pascual Caballo)
+Antonio Sevilla Sastre, Enrique Pérez López, Miguel Martínez González (M. Pascual Caballo).
 
 -----------------------------------------------------------------------------
 
