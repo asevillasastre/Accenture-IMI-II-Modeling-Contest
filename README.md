@@ -10,6 +10,9 @@ A heuristic algorithm is proposed. It tries to find sets of operations on primes
 ### Author
 Antonio Sevilla Sastre, Enrique Pérez López, Miguel Martínez González (M. Pascual Caballo).
 
+### Freak notes
+Here is [the divisibility rule of 37](https://youtu.be/fNwfQLHvFxA)
+
 -----------------------------------------------------------------------------
 
 You may check [my other projects](https://github.com/asevillasastre?tab=repositories) and follow me on [LinkedIn](https://www.linkedin.com/in/asevillasastre/)!
