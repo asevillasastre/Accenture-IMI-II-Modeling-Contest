@@ -5,13 +5,13 @@ A heuristic algorithm is proposed. It tries to find sets of operations on primes
 
 ### Content
 - You can read the formulation of the proposed problem [here](https://github.com/asevillasastre/Accenture-IMI-II-Modeling-Contest/blob/main/PROBLEM.pdf).
-- Our proposed solution is in [this script](https://github.com/asevillasastre/Accenture-IMI-II-Modeling-Contest/blob/main/SCRIPT.py)
+- Our proposed solution is in [this script](https://github.com/asevillasastre/Accenture-IMI-II-Modeling-Contest/blob/main/SCRIPT.py).
 
 ### Author
-Antonio Sevilla Sastre, [Enrique Pérez López](https://www.linkedin.com/in/enrique-perez-lopez/), Miguel Martínez González (M. Pascual Caballo)
+Antonio Sevilla Sastre, [Enrique Pérez López](https://www.linkedin.com/in/enrique-perez-lopez/), Miguel Martínez González (M. Pascual Caballo).
 
 ### Freak notes
-Here is [the divisibility rule of 37](https://youtu.be/fNwfQLHvFxA)
+Here is [the divisibility rule of 37](https://youtu.be/fNwfQLHvFxA)!
 
 -----------------------------------------------------------------------------
 
